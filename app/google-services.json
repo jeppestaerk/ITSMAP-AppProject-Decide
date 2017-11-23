@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027967904061",
+    "firebase_url": "https://itsmap-appproject-decide.firebaseio.com",
+    "project_id": "itsmap-appproject-decide",
+    "storage_bucket": "itsmap-appproject-decide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027967904061:android:a6fead0acf39ae47",
+        "android_client_info": {
+          "package_name": "au.ase.itsmap.e17.appproject.gruppe7.decide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027967904061-e65f2j8t92hmrkr7u2scjkb65sf0qeqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAk7hkWhr3o1nM9yEzPeBbkrj92WZ7wj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
